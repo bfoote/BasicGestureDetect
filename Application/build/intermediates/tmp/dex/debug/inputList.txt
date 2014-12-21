@@ -1,0 +1,7 @@
+C:\Development\Android\BasicGestureDetect\Application\build\intermediates\classes\debug
+C:\Development\Android\BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-99287e47e810dc3117ca536ff48b99af1c54dc7a.jar
+C:\Development\Android\BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-a0a756e184ba964da622bd41d61dee0775c8259d.jar
+C:\Development\Android\BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\classes-2939cd7c179e060d8a50cdc065235b6382b079ab.jar
+C:\Development\Android\BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\classes-4f5637ab3d586f4a61af7fc10ae94afcf4c70d28.jar
+C:\Development\Android\BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-e5f4be7f80223cd652ba2a3ea3d824e1accd1334.jar
+C:\Development\Android\BasicGestureDetect\Application\build\intermediates\pre-dexed\debug\classes-0b851efb59d40313ac070f3192175c4a96dc1a1f.jar
